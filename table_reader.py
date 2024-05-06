@@ -26,7 +26,7 @@ from llama_index.core import VectorStoreIndex
 import nest_asyncio
 
 nest_asyncio.apply()
-
+openai.api_key=st.secrets["OPENAI_KEY"]
 llm = OpenAI(temperature=0.1, model="gpt-3.5-turbo", max_tokens=512)
 def ParseandExtract(document):
     text_splitter = TokenTextSplitter(
