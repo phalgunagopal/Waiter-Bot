@@ -8,8 +8,8 @@ from PIL import Image
 import pandas as pd
 from llama_index.core import Document
 
-st.set_page_config(page_title="Legal Reader", page_icon="📒")
-st.title("Legal Reader")
+st.set_page_config(page_title="Waiter-Bot", page_icon="📒")
+st.title("Waiter Bot")
 
 
 
