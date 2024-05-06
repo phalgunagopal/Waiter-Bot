@@ -1,0 +1,13 @@
+_id,created_at,name,cookTime,cuisine,course,isVeg,is SugarFree,is HighProtein,is GlutenFree,is Vegan,allergies,calories,price,availability,description
+2,2024-02-02 13:03:51.176987+00,Chicken Pasta,23 min,Italian,main,FALSE,FALSE,FALSE,FALSE,FALSE,None,625,320,TRUE,Succulent chicken dances with al dente pasta in savory harmony.
+5,2024-02-02 13:20:13.485297+00,Farmhouse Pizza,25 min,Italian,main,TRUE,FALSE,FALSE,FALSE,FALSE,None,1350,549,TRUE,"Rustic crust embraces tangy sauce, fresh toppings; farm-fresh delight."
+16,2024-04-23 06:13:58.921694+00,Hot Chocolate Fudge,5 min,Continental,dessert,TRUE,FALSE,FALSE,FALSE,FALSE,None,850,332,TRUE,"Creamy cocoa bliss adorned with rich, decadent fudge indulgence."
+3,2024-02-02 13:08:19.211734+00,Paneer Biryani,18 min,Indian,main,TRUE,FALSE,TRUE,TRUE,FALSE,None,1250,355,TRUE,Creamy paneer dances with fragrant rice in tantalizing spice embrace.
+7,2024-02-02 13:34:51.984873+00,French Fries,8 min,Continental,starter,TRUE,FALSE,FALSE,FALSE,TRUE,None,450,180,TRUE,"Crispy, golden batons of potato delight, savory, universally beloved indulgence."
+6,2024-02-02 13:30:21.000587+00,Chicken Club Sandwich,12 min,Continental,main,FALSE,FALSE,TRUE,FALSE,FALSE,None,600,310,TRUE,"Succulent grilled chicken nestled between toasted bread, bacon, and lettuce."
+1,2024-02-02 11:27:14.584251+00,Black Bean Burrito,30 min,Mexican,main,TRUE,FALSE,TRUE,FALSE,FALSE,lactose,522,279,TRUE,"Savory black beans, wrapped in warm tortilla, bursting with flavors."
+10,2024-02-02 13:43:19.292076+00,Chicken Shawarma,12 min,Middle Eastern,main,FALSE,FALSE,TRUE,FALSE,FALSE,None,800,180,TRUE,Succulent grilled chicken wrapped in warm pita with savory spices.
+8,2024-02-02 13:36:57.894046+00,Chilli Paneer,8 min,Chinese,starter,TRUE,FALSE,TRUE,FALSE,FALSE,None,750,325,TRUE,"Succulent paneer cubes drenched in fiery chili-infused sauce, tantalizingly satisfying."
+9,2024-02-02 13:40:17.025979+00,Chicken Wings,9 min,Continental,starter,FALSE,FALSE,TRUE,FALSE,FALSE,None,900,320,TRUE,"Tender, succulent chicken, crispy skin, bathed in zesty, tangy sauce."
+4,2024-02-02 13:12:52.814727+00,Spinach Omelette,10 min,Continental,main,FALSE,TRUE,TRUE,TRUE,FALSE,None,200,180,TRUE,"Savory spinach folded with eggs, a tender, flavorful morning embrace."
+15,2024-04-12 08:43:44.36968+00,Pav Bhaji,12 min,Indian,main,TRUE,FALSE,FALSE,FALSE,FALSE,None,1025,225,TRUE,A flavorful Indian street food with spicy vegetable mash
