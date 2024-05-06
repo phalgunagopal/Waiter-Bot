@@ -20,7 +20,7 @@ from llama_index.core.question_gen.prompts import (
 from llama_index.core import VectorStoreIndex
 from llama_index.core.query_engine import SubQuestionQueryEngine
 from llama_index.core.tools import QueryEngineTool, ToolMetadata
-# import streamlit as st
+import streamlit as st
 import pandas as pd
 from llama_index.core import VectorStoreIndex
 import nest_asyncio
